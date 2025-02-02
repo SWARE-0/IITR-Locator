@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --easy-primary: 52, 211, 153;
+  --easy-secondary: 16, 185, 129;
+  --medium-primary: 251, 191, 36;
+  --medium-secondary: 245, 158, 11;
+  --hard-primary: 239, 68, 68;
+  --hard-secondary: 225, 29, 72;
+}
+
+body {
+  font-family: var(--font-orbitron), sans-serif;
+}
+
